@@ -1,0 +1,19 @@
+Id,Model.Facility Name,Model.Facility Type,Location,Capacity,Availability Start,Availability End
+BC-01,Badminton Court 1,Badminton,Zone A - 2nd Floor,4,2025-10-10 08:00,2025-10-10 09:00
+MFF-01,Mini Football Field,Football,Zone B - Outdoor Area,10,2025-10-10 17:00,2025-10-10 18:30
+ASP-01,Adult Swimming Pool,Swimming Pool,Zone C - Ground Floor,30,2025-10-11 06:00,2025-10-11 07:00
+BC-02,Badminton Court 2,Badminton,Zone A - 2nd Floor,4,2025-10-11 10:00,2025-10-11 11:00
+MFF-01,Mini Football Field,Football,Zone B - Outdoor Area,10,2025-10-11 19:00,2025-10-11 20:30
+KSP-01,Kids Swimming Pool,Swimming Pool,Zone C - Ground Floor,20,2025-10-12 08:00,2025-10-12 09:00
+TC-01,Tennis Court 1,Tennis,Zone D - 1st Floor,2,2025-10-12 07:00,2025-10-12 08:00
+TC-02,Tennis Court 2,Tennis,Zone D - 1st Floor,2,2025-10-13 09:00,2025-10-13 10:00
+TTA-01,Table Tennis Area 1,Table Tennis,Zone E - Ground Floor,2,2025-10-13 14:00,2025-10-13 15:00
+BC-03,Badminton Court 3,Badminton,Zone A - 2nd Floor,4,2025-10-13 15:00,2025-10-13 16:00
+MFF-01,Mini Football Field,Football,Zone B - Outdoor Area,10,2025-10-14 06:00,2025-10-14 07:00
+ASP-01,Adult Swimming Pool,Swimming Pool,Zone C - Ground Floor,30,2025-10-14 08:00,2025-10-14 09:00
+TC-03,Tennis Court 3,Tennis,Zone D - 1st Floor,2,2025-10-14 09:00,2025-10-14 10:00
+TTA-02,Table Tennis Area 2,Table Tennis,Zone E - Ground Floor,2,2025-10-14 10:00,2025-10-14 11:00
+BC-04,Badminton Court 4,Badminton,Zone A - 2nd Floor,4,2025-10-15 12:00,2025-10-15 13:00
+MFF-01,Mini Football Field,Football,Zone B - Outdoor Area,10,2025-10-15 13:00,2025-10-15 14:00
+KSP-01,Kids Swimming Pool,Swimming Pool,Zone C - Ground Floor,20,2025-10-15 14:00,2025-10-15 15:00
+TC-04,Tennis Court 4,Tennis,Zone D - 1st Floor,2,2025-10-15 15:00,2025-10-15 16:00
